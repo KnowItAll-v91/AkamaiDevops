@@ -1,0 +1,8 @@
+[
+    {
+        "cnameFrom": "qa.DemoPipeline",
+        "cnameTo": "qa.DemoPipeline.edgesuite.net",
+        "cnameType": "EDGE_HOSTNAME",
+        "edgeHostnameId": null
+    }
+]

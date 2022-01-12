@@ -1,0 +1,17 @@
+{
+    "name": "dev",
+    "propertyName": "dev.DemoPipeline",
+    "groupId": 173720,
+    "isSecure": false,
+    "propertyId": 766677,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "soshetty",
+        "updatedDate": "2022-01-12T13:32:31Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "productId": "prd_Site_Accel",
+        "ruleFormat": "v2018-09-12"
+    },
+    "suggestedRuleFormat": "v2018-09-12"
+}
